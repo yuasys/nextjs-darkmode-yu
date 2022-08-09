@@ -16,7 +16,7 @@ Reactベースのフレームワークの使い方を習得する
 
 |ブランチ名|到達目標|メモ|
 ----|----|----
-|main|npx ceate-next-app .で「ひな形」<br/>をつくる|・npm installで動作確認済みであること<br/>・活動概要をこのREADME.mdに記載すること|
+|[main](https://github.com/yuasys/nextjs-darkmode-yu/tree/main)|npx ceate-next-app .で「ひな形」<br/>をつくる|・npm installで動作確認済みであること<br/>・活動概要をこのREADME.mdに記載すること|
 
 # 検討中（研究課題）
 
