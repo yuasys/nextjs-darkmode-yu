@@ -1,3 +1,22 @@
+# 目標
+
+Reactベースのフレームワークの使い方を習得する
+
+## 焦点の当て方
+
+開発の手順（流れ）に着目して練習すること
+
+## お手本
+
+[成果物のお手本](https://github.com/yuasys/nextjs-darkmode/)  
+[手順のお手本](https://youtu.be/VYiMU_xB9LY)
+
+# 検討中（研究課題）
+
+手順を分かりやすくbranchを切るにはどうしたらよいか
+
+<hr/>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
